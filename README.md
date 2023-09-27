@@ -1,1 +1,1 @@
-# LSTM-stock-prediction-model
+# RNN-stock-prediction-model
